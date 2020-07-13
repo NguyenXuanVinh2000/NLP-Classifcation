@@ -1,2 +1,3 @@
 # NLP-Classifcation
-Những dự án liên quan đến NLP
+Dự án phân lớp cảm xúc của bình luận người dùng trên mạng xã hội
+Với model Navie Bayes và Support Vector Machine
